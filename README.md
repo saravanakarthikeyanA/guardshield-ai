@@ -216,6 +216,16 @@ model = PeftModel.from_pretrained(base_model, ADAPTER_ID)
 
 ---
 
+## Demo
+
+
+
+
+https://github.com/user-attachments/assets/33903fc9-038f-4500-9d74-cc9cc05e11b8
+
+
+---
+
 ## 📜 License
 
 Distributed under the Apache 2.0 License. See `LICENSE` for more information.
